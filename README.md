@@ -2,6 +2,10 @@
 
 This repository provides the dataset used in our structured literature review (SLR) on the use of semantic information models in the domains of **manufacturing automation**, **energy systems**, and **building automation**. The dataset is stored as a `.bib` file (`slr-results.bib`) and includes grouped entries based on **technologies**, **application domains**, and **data sources**.
 
+<p align="center">
+   <img align="middle" height="500px" src="https://github.com/hsu-aut/semantic-technology-literature-search/blob/documentation/images/images/SLR_result-screenshot.jpg?raw=true">
+</p>
+
 ## ▶️ Content and Usage Instructions
 
 1. Open `slr-results.bib` in **JabRef** (version 5.x recommended).
