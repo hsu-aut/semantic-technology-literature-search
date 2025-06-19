@@ -50,7 +50,7 @@ AND
 ALL-METADATA(${application domain})
 AND
 ALL-METADATA(${technology})
-
+```
 
 ## 📊 Search Results Summary
 
